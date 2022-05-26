@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background:wheat;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: azure;
+	border-radius: 10px;
+}
